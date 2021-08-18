@@ -2,3 +2,4 @@
 
 @section('title','BlogPage')
 @section('header','Selamat Datang di Blog')
+@section('footer','Footer')

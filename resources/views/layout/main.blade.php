@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>@yield('header')</h1>
-    <h2>Menambahkan Header pada Base</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores illo quod culpa qui, quos quisquam molestiae voluptatem sed, minus eligendi odit quaerat doloremque suscipit sit repudiandae incidunt quam, a sapiente.</p>
+
+<footer>@yield('footer')</footer>
 </body>
 </html>
