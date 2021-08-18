@@ -7,6 +7,7 @@
     <title>@yield('title')</title>
 </head>
 <body>
-
+    <h1>@yield('header')</h1>
+    <h2>Menambahkan Header pada Base</h2>
 </body>
 </html>
